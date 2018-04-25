@@ -26,7 +26,8 @@ Se você não tem o Python instalado ainda é recomendável que você instale o 
 
 ### Código
 
-Template code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+O código provido no arquivo de notebook `dementia_prediction.ipynb` compreende todas as etapas de coleta, normalização, processamento e avaliação dos diferentes algoritmos de classificação utilizados.
+Todos os arquivos necessários para sua execução estão presentes no diretório do projeto `dementia_prediction/`.
 
 ### Execução
 
@@ -49,6 +50,7 @@ Obtendo os dados disponibilizados pelo projeto OASIS Brains (http://www.oasis-br
 Também há o mesmo conjunto de dados disponível no [Kaggle](http://kaggle.com) em [MRI and Alzheimers](https://www.kaggle.com/jboysen/mri-and-alzheimers)
 
 **Atributos**
+
 1.  `Subject ID`: identificação do paciente 
 2. `MRI ID `: identificação do exame de RM 
 3. `Visit`: Número da visita de acompanhamento
@@ -63,6 +65,10 @@ Também há o mesmo conjunto de dados disponível no [Kaggle](http://kaggle.com)
 12. `nWBV`: volume cerebral normalizado
 13. `ASF`: fator de escala Atlas
 
+**Variável Alvo**
 
-**Variável Alvoe**
 14. `Group`: Classe, demência ou não demência
+
+### Documentos
+
+Os arquivos fontes dos documentos finais e da proposta estão no diretório `documents/` . Tais arquivos estão no formato Latex, aos quais podem ser utilizados em outros projetos de outros alunos deste programa de nanodegree.

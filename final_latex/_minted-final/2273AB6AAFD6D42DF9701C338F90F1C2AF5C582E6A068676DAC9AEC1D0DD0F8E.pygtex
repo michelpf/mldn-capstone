@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kn}{from} \PYG{n+nn}{sklearn} \PYG{k+kn}{import} \PYG{n}{svm}
+
+\PYG{n}{svm\PYGZus{}linear\PYGZus{}model} \PYG{o}{=} \PYG{n}{svm}\PYG{o}{.}\PYG{n}{SVC}\PYG{p}{(}\PYG{n}{kernel}\PYG{o}{=}\PYG{l+s+s1}{\PYGZsq{}linear\PYGZsq{}}\PYG{p}{)}
+\PYG{n}{svm\PYGZus{}linear\PYGZus{}model}\PYG{o}{.}\PYG{n}{fit}\PYG{p}{(}\PYG{n}{X\PYGZus{}train}\PYG{p}{,} \PYG{n}{y\PYGZus{}train}\PYG{o}{.}\PYG{n}{ravel}\PYG{p}{())}
+\end{Verbatim}

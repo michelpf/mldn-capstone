@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n}{df\PYGZus{}long}\PYG{p}{[}\PYG{l+s+s2}{\PYGZdq{}SES\PYGZdq{}}\PYG{p}{]}\PYG{o}{.}\PYG{n}{fillna}\PYG{p}{(}\PYG{n}{df\PYGZus{}long}\PYG{p}{[}\PYG{l+s+s2}{\PYGZdq{}SES\PYGZdq{}}\PYG{p}{]}\PYG{o}{.}\PYG{n}{mean}\PYG{p}{(),} \PYG{n}{inplace}\PYG{o}{=}\PYG{n+nb+bp}{True}\PYG{p}{)}
+\PYG{n}{df\PYGZus{}long}\PYG{p}{[}\PYG{l+s+s2}{\PYGZdq{}MMSE\PYGZdq{}}\PYG{p}{]}\PYG{o}{.}\PYG{n}{fillna}\PYG{p}{(}\PYG{n}{df\PYGZus{}long}\PYG{p}{[}\PYG{l+s+s2}{\PYGZdq{}MMSE\PYGZdq{}}\PYG{p}{]}\PYG{o}{.}\PYG{n}{mean}\PYG{p}{(),} \PYG{n}{inplace}\PYG{o}{=}\PYG{n+nb+bp}{True}\PYG{p}{)}
+\end{Verbatim}

@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYG{n}{nans} \PYG{o}{=} \PYG{k}{lambda} \PYG{n}{df}\PYG{p}{:} \PYG{n}{df}\PYG{p}{[}\PYG{n}{df}\PYG{o}{.}\PYG{n}{isnull}\PYG{p}{()}\PYG{o}{.}\PYG{n}{any}\PYG{p}{(}\PYG{n}{axis}\PYG{o}{=}\PYG{l+m+mi}{1}\PYG{p}{)]}
-\end{Verbatim}

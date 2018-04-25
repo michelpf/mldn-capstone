@@ -1,2 +1,0 @@
-\select@language {brazil}
-\contentsline {chapter}{Gloss\'ario}{6}

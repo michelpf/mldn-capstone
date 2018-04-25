@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYG{n}{df\PYGZus{}long}\PYG{o}{.}\PYG{n}{isin}\PYG{p}{([}\PYG{l+m+mi}{0}\PYG{p}{])}\PYG{o}{.}\PYG{n}{sum}\PYG{p}{()}
-\end{Verbatim}

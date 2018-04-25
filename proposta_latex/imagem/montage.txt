@@ -1,1 +1,0 @@
-montage resultado_axial.png resultado_coronal.png resultado_sagital.png -tile 1x3  -geometry +4+4 -resize +4+4 -background #000000 teste.png

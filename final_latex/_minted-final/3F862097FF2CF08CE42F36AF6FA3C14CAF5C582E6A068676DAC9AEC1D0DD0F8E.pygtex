@@ -1,7 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYG{n}{clf\PYGZus{}rf} \PYG{o}{=} \PYG{n}{RandomForestClassifier}\PYG{p}{(}\PYG{n}{n\PYGZus{}estimators}\PYG{o}{=}\PYG{l+m+mi}{20}\PYG{p}{)}
-
-\PYG{n}{grid\PYGZus{}search} \PYG{o}{=} \PYG{n}{GridSearchCV}\PYG{p}{(}\PYG{n}{clf\PYGZus{}rf}\PYG{p}{,} \PYG{n}{param\PYGZus{}grid}\PYG{o}{=}\PYG{n}{param\PYGZus{}grid}\PYG{p}{,} \PYG{n}{cv}\PYG{o}{=}\PYG{l+m+mi}{10}\PYG{p}{)}
-\PYG{n}{grid\PYGZus{}search}\PYG{o}{.}\PYG{n}{fit}\PYG{p}{(}\PYG{n}{X}\PYG{p}{,} \PYG{n}{y}\PYG{p}{)}
-\PYG{n}{report}\PYG{p}{(}\PYG{n}{grid\PYGZus{}search}\PYG{o}{.}\PYG{n}{cv\PYGZus{}results\PYGZus{}}\PYG{p}{)}
-\end{Verbatim}

@@ -1,0 +1,1208 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  25 APR 2018 08:06
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**final.tex
+(./final.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2017/11/14 v4.35 (NLCT)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+)
+\XKV@depth=\count87
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2016/07/31 v2.04 (NLCT)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count88
+)
+\@glsmfirst=\toks17
+\@glsmrest=\toks18
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2016/07/28 v2.27 (NLCT)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen103
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks20
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks21
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks22
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count101
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2016/07/28 v2.27 (NLCT)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count103
+\FP@xia=\count104
+\FP@xib=\count105
+\FP@xfa=\count106
+\FP@xfb=\count107
+\FP@rega=\count108
+\FP@regb=\count109
+\FP@regs=\count110
+\FP@times=\count111
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count112
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks24
+\@dtl@tmpcount=\count113
+\dtl@tmplength=\skip55
+\dtl@sortresult=\count114
+\@dtl@numgrpsepcount=\count115
+\@dtl@datatype=\count116
+\dtl@codeA=\count117
+\dtl@codeB=\count118
+\@dtl@foreach@level=\count119
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/glossaries/base/glossaries-compat
+ible-307.sty
+Package: glossaries-compatible-307 2017/11/14 v4.35 (NLCT)
+)
+\gls@level=\count120
+\@gls@tmpb=\toks25
+\gls@tmplen=\skip56
+\glskeylisttok=\toks26
+\glslabeltok=\toks27
+\glsshorttok=\toks28
+\glslongtok=\toks29
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
+av.sty
+Package: glossary-hypernav 2017/11/14 v4.35 (NLCT)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
+ty
+Package: glossary-list 2017/11/14 v4.35 (NLCT)
+\glslistdottedwidth=\skip57
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
+ty
+Package: glossary-long 2017/11/14 v4.35 (NLCT)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip58
+\LTright=\skip59
+\LTpre=\skip60
+\LTpost=\skip61
+\LTchunksize=\count121
+\LTcapwidth=\dimen112
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count122
+\LT@rows=\count123
+\c@LT@tables=\count124
+\c@LT@chunks=\count125
+\LT@p@ftn=\toks30
+)
+\glsdescwidth=\skip62
+\glspagelistwidth=\skip63
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/glossaries/styles/glossary-super.
+sty
+Package: glossary-super 2017/11/14 v4.35 (NLCT)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count126
+\ST@wd=\dimen113
+\ST@rightskip=\skip64
+\ST@leftskip=\skip65
+\ST@parfillskip=\skip66
+\ST@pageleft=\dimen114
+\ST@headht=\dimen115
+\ST@tailht=\dimen116
+\ST@pagesofar=\dimen117
+\ST@pboxht=\dimen118
+\ST@lineht=\dimen119
+\ST@stretchht=\dimen120
+\ST@prevht=\dimen121
+\ST@toadd=\dimen122
+\ST@dimen=\dimen123
+\ST@pbox=\box32
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
+ty
+Package: glossary-tree 2017/11/14 v4.35 (NLCT)
+\glstreeindent=\skip67
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count127
+\U@D=\dimen124
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count128
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count129
+\float@exts=\toks31
+\float@box=\box33
+\@float@everytoks=\toks32
+\@floatcapt=\box34
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen127
+\nom@tempdim=\dimen128
+\nomitemsep=\skip68
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count130
+\calc@Bcount=\count131
+\calc@Adimen=\dimen129
+\calc@Bdimen=\dimen130
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count132
+\calc@Cskip=\skip71
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen131
+\AM@pageheight=\dimen132
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box35
+\AM@global@opts=\toks33
+\AM@toc@title=\toks34
+\c@AM@survey=\count133
+\AM@templatesizebox=\box36
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 105.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks35
+\inpenc@posthook=\toks36
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ansinew.def
+File: ansinew.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen133
+\extrarowheight=\dimen134
+\NC@list=\toks37
+\extratabsurround=\skip72
+\backup@length=\skip73
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/bbding/bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks38
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip74
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+\minimumbiblabelwidth=\skip75
+\ABCIauxlen=\skip76
+\c@ABCIaux=\count134
+\c@ABCImax=\count135
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip77
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks39
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2016/09/02 v1.2.1 fvextra - extensions and patches for fancyvr
+b
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count136
+\FV@InFile=\read1
+\FV@TabBox=\box37
+\c@FancyVerbLine=\count137
+\FV@StepNumber=\count138
+\FV@OutFile=\write3
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count139
+\output=\toks40
+\linenoprevgraf=\count140
+\linenumbersep=\dimen135
+\linenumberwidth=\dimen136
+\c@linenumber=\count141
+\c@pagewiselinenumber=\count142
+\c@LN@truepage=\count143
+\c@internallinenumber=\count144
+\c@internallinenumbers=\count145
+\quotelinenumbersep=\dimen137
+\bframerule=\dimen138
+\bframesep=\dimen139
+\bframebox=\box38
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count146
+\c@FV@TrueTabCounter=\count147
+\FV@TabBox@Group=\box39
+\FV@TmpLength=\skip78
+\c@FV@HighlightLinesStart=\count148
+\c@FV@HighlightLinesStop=\count149
+\FV@BreakIndent=\dimen140
+\FV@BreakSymbolSepLeft=\dimen141
+\FV@BreakSymbolSepRight=\dimen142
+\FV@BreakSymbolIndentLeft=\dimen143
+LaTeX Font Info:    Try loading font information for T1+aett on input line 562.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ae/t1aett.fd
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
+\FV@BreakSymbolIndentRight=\dimen144
+\c@FancyVerbLineBreakLast=\count150
+\FV@LineBox=\box40
+\FV@LineIndentBox=\box41
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 67.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2010/10/22 v0.4 Testing for the operating system
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
+)
+runsystem(uname -s > "final.w18")...executed.
+
+
+(./final.w18)
+runsystem(rm -- "final.w18")...executed.
+
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count151
+\decimalpart=\count152
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip79
+\fb@frw=\dimen145
+\fb@frh=\dimen146
+\FrameRule=\dimen147
+\FrameSep=\dimen148
+)
+\minted@appexistsfile=\read2
+\minted@bgbox=\box42
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count153
+\c@minted@pygmentizecounter=\count154
+\@float@every@listing=\toks41
+\c@listing=\count155
+)
+runsystem(mkdir -p _minted-final)...executed.
+
+\defbaselineskip=\skip80
+\glswrite=\write6
+\glo@main@file=\write7
+\openout7 = `final.glo'.
+
+Package glossaries Info: Writing glossary file final.glo on input line 53.
+\@indexfile=\write8
+\openout8 = `final.idx'.
+
+
+Writing index file final.idx
+runsystem(which pygmentize && touch final.aex)...executed.
+
+runsystem(rm final.aex)...executed.
+
+(./final.aux
+
+LaTeX Warning: Label `fig-GrafSexo' multiply defined.
+
+
+LaTeX Warning: Label `fig-GrafIdade' multiply defined.
+
+
+LaTeX Warning: Label `fig-GrafEduc' multiply defined.
+
+
+LaTeX Warning: Label `fig-GrafMMSE' multiply defined.
+
+
+LaTeX Warning: Label `fig-GrafCorr' multiply defined.
+
+
+LaTeX Warning: Label `tab-RFMCOtimizado' multiply defined.
+
+
+LaTeX Warning: Label `fig-ImportanciaFeatures' multiply defined.
+
+)
+\openout1 = `final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 59.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Try loading font information for T1+aess on input line 59.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ae/t1aess.fd
+File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
+) (./final.glsdefs)
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count156
+\scratchdimen=\dimen149
+\scratchbox=\box43
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen150
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks43
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box44
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 60.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 60.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./imagem/AD_7.png, id=1, 365.11406pt x 227.34938pt>
+File: ./imagem/AD_7.png Graphic file (type png)
+ <use ./imagem/AD_7.png>
+Package pdftex.def Info: ./imagem/AD_7.png used on input line 75.
+(pdftex.def)             Requested size: 365.11316pt x 227.34882pt.
+LaTeX Font Info:    Font shape `T1/aess/m/it' in size <9> not available
+(Font)              Font shape `T1/aess/m/sl' tried instead on input line 76.
+
+[1
+
+\openout6 = `final.ist'.
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<./imagem/AD_8.png, id=14, 362.85562pt x 222.8325pt>
+File: ./imagem/AD_8.png Graphic file (type png)
+ <use ./imagem/AD_8.png>
+Package pdftex.def Info: ./imagem/AD_8.png used on input line 82.
+(pdftex.def)             Requested size: 362.85474pt x 222.83195pt.
+LaTeX Font Info:    Try loading font information for TS1+aess on input line 87.
+
+LaTeX Font Info:    No file TS1aess.fd. on input line 87.
+
+
+LaTeX Font Warning: Font shape `TS1/aess/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textdiscount' on input line 87.
+
+LaTeX Font Info:    Font shape `T1/aess/m/it' in size <10> not available
+(Font)              Font shape `T1/aess/m/sl' tried instead on input line 87.
+\@gls@deffile=\write9
+\openout9 = `final.glsdefs'.
+
+[2 <./imagem/AD_7.png> <./imagem/AD_8.png>] [3]
+Overfull \hbox (0.58359pt too wide) in paragraph at lines 134--135
+[]\T1/aess/m/n/10 Dr. Alois Alzhei-mer pu-bli-cou um re-la-tó-rio so-bre "uma d
+o-ença co-mum no cór-tex ce-re-bral"(STELZMANN;
+ []
+
+[4]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] [6] <./imagem/AD_1.jpg, id=37, 298.86656pt x 301.125pt>
+File: ./imagem/AD_1.jpg Graphic file (type jpg)
+
+<use ./imagem/AD_1.jpg>
+Package pdftex.def Info: ./imagem/AD_1.jpg used on input line 271.
+(pdftex.def)             Requested size: 298.86581pt x 301.12425pt.
+ [7] [8 <./imagem/AD_1.jpg>] [9]
+<./imagem/graf_mf.png, id=49, 1093.08376pt x 648.4225pt>
+File: ./imagem/graf_mf.png Graphic file (type png)
+
+<use ./imagem/graf_mf.png>
+Package pdftex.def Info: ./imagem/graf_mf.png used on input line 356.
+(pdftex.def)             Requested size: 1093.08109pt x 648.42091pt.
+
+./final.tex:359: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.359 \end{figure}
+                  
+? 
+./final.tex:361: Too many }'s.
+l.361 A idade (figura \label{fig-GrafIdade}}
+                                             não é um fator determinante par...
+
+? 
+[10 <./imagem/graf_mf.png>]
+<./imagem/graf_age.png, id=54, 1095.09125pt x 648.4225pt>
+File: ./imagem/graf_age.png Graphic file (type png)
+
+<use ./imagem/graf_age.png>
+Package pdftex.def Info: ./imagem/graf_age.png used on input line 365.
+(pdftex.def)             Requested size: 1095.08858pt x 648.42091pt.
+
+./final.tex:368: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.368 \end{figure}
+                  
+? 
+<./imagem/graf_educ.png, id=55, 1093.08376pt x 648.4225pt>
+File: ./imagem/graf_educ.png Graphic file (type png)
+
+<use ./imagem/graf_educ.png>
+Package pdftex.def Info: ./imagem/graf_educ.png used on input line 376.
+(pdftex.def)             Requested size: 1093.08109pt x 648.42091pt.
+
+./final.tex:379: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.379 \end{figure}
+                  
+? 
+[11 <./imagem/graf_age.png>]
+<./imagem/graf_ses.png, id=60, 1093.08376pt x 648.4225pt>
+File: ./imagem/graf_ses.png Graphic file (type png)
+
+<use ./imagem/graf_ses.png>
+Package pdftex.def Info: ./imagem/graf_ses.png used on input line 387.
+(pdftex.def)             Requested size: 1093.08109pt x 648.42091pt.
+
+./final.tex:390: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.390 \end{figure}
+                  
+? 
+[12 <./imagem/graf_educ.png>]
+<./imagem/graf_mmse.png, id=65, 1105.12875pt x 648.4225pt>
+File: ./imagem/graf_mmse.png Graphic file (type png)
+
+<use ./imagem/graf_mmse.png>
+Package pdftex.def Info: ./imagem/graf_mmse.png used on input line 400.
+(pdftex.def)             Requested size: 1105.12607pt x 648.42091pt.
+
+./final.tex:403: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.403 \end{figure}
+                  
+? 
+[13 <./imagem/graf_ses.png>]
+<./imagem/graf_cdr.png, id=71, 1101.11375pt x 648.4225pt>
+File: ./imagem/graf_cdr.png Graphic file (type png)
+
+<use ./imagem/graf_cdr.png>
+Package pdftex.def Info: ./imagem/graf_cdr.png used on input line 423.
+(pdftex.def)             Requested size: 1101.11108pt x 648.42091pt.
+
+./final.tex:426: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.426 \end{figure}
+                  
+? 
+[14 <./imagem/graf_mmse.png>]
+<./imagem/graf_etiv.png, id=76, 1097.09875pt x 648.4225pt>
+File: ./imagem/graf_etiv.png Graphic file (type png)
+
+<use ./imagem/graf_etiv.png>
+Package pdftex.def Info: ./imagem/graf_etiv.png used on input line 434.
+(pdftex.def)             Requested size: 1097.09608pt x 648.42091pt.
+
+./final.tex:437: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.437 \end{figure}
+                  
+? 
+[15 <./imagem/graf_cdr.png>]
+<./imagem/graf_nwbv.png, id=81, 1085.05376pt x 648.4225pt>
+File: ./imagem/graf_nwbv.png Graphic file (type png)
+
+<use ./imagem/graf_nwbv.png>
+Package pdftex.def Info: ./imagem/graf_nwbv.png used on input line 441.
+(pdftex.def)             Requested size: 1085.0511pt x 648.42091pt.
+
+./final.tex:444: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.444 \end{figure}
+                  
+? 
+<./imagem/graf_asf.png, id=82, 1097.09875pt x 648.4225pt>
+File: ./imagem/graf_asf.png Graphic file (type png)
+
+<use ./imagem/graf_asf.png>
+Package pdftex.def Info: ./imagem/graf_asf.png used on input line 448.
+(pdftex.def)             Requested size: 1097.09608pt x 648.42091pt.
+
+./final.tex:451: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.451 \end{figure}
+                  
+? 
+[16 <./imagem/graf_etiv.png> <./imagem/graf_nwbv.png>]
+File: ./imagem/graf_asf.png Graphic file (type png)
+
+<use ./imagem/graf_asf.png>
+Package pdftex.def Info: ./imagem/graf_asf.png used on input line 457.
+(pdftex.def)             Requested size: 1097.09608pt x 648.42091pt.
+
+./final.tex:460: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.460 \end{figure}
+                  
+? 
+[17 <./imagem/graf_asf.png>] [18]
+
+./final.tex:492: LaTeX Error: Environment code undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.492 \begin{code}
+                  
+? 
+\openout3 = `final.pyg'.
+
+(./_minted-final/default-pyg-prefix.pygstyle) (./_minted-final/default.pygstyle
+)
+(./_minted-final/FE7E1C454334D3F43551C78CBEFDA787AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex
+
+LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
+(Font)              using `T1/aett/m/n' instead on input line 2.
+
+) <./imagem/tabela_nulos.png, id=95, 965.6075pt x 567.11874pt>
+File: ./imagem/tabela_nulos.png Graphic file (type png)
+
+<use ./imagem/tabela_nulos.png>
+Package pdftex.def Info: ./imagem/tabela_nulos.png used on input line 502.
+(pdftex.def)             Requested size: 965.60515pt x 567.11736pt.
+
+Overfull \hbox (13.04755pt too wide) in paragraph at lines 502--503
+ [][] 
+ []
+
+./final.tex:505: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.505 \end{figure}
+                  
+? 
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/1109D765BAC29F6C68530556B768016EAF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/763A3EF169F30CE6F97C8F473C724B76AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex [19 <./imagem/tabela_nulos.png>])
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/89F5288F7A8EB8469DF5648330C8EB31AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/6CADB885266B5C5355423A92D38F3A0DAF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/15B36D0D16CCDBD2CC104BEA66AF13EEAF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex) [20]
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/AA61A980F979AF5135F92B198C12A699AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex
+LaTeX Font Info:    Try loading font information for TS1+aett on input line 6.
+LaTeX Font Info:    No file TS1aett.fd. on input line 6.
+
+
+LaTeX Font Warning: Font shape `TS1/aett/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textquotesingle' on input line 6.
+
+)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/A1FBD9295334924F023927410428834EAF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/FA8F205F00DD9117DC70ECD8BF65FA98AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/2273AB6AAFD6D42DF9701C338F90F1C2AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/E5F56B9EB37F9460499FA765C9CEFFF4AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex) [21]
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/5C3E08A6FD0A351D3E03313F479C6F2EAF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/3F862097FF2CF08CE42F36AF6FA3C14CAF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/23EBBA4CA7FFD9AAB372AADE43A5FA92AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex) [22]
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/570E70E38AB00A413AC129B83AB20A14AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/CD94E664423A0ABED9FCD15273E2E3E6AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/CEE019662A9A0DDC14A0A62FDDE81483AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex [23])
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/E36A92FE175EB3D86A38180CCDB8E7A7AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex)
+\openout3 = `final.pyg'.
+
+
+(./_minted-final/B7B4A3F188824B074E7A72311C586F91AF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex) [24]
+<./imagem/graf_import_feature.png, id=117, 878.28125pt x 601.24625pt>
+File: ./imagem/graf_import_feature.png Graphic file (type png)
+
+<use ./imagem/graf_import_feature.png>
+Package pdftex.def Info: ./imagem/graf_import_feature.png used on input line 84
+7.
+(pdftex.def)             Requested size: 878.27911pt x 601.24477pt.
+
+./final.tex:850: Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.850 \end{figure}
+                  
+? 
+[25] [26 <./imagem/graf_import_feature.png>] (./final.gls [27]) [28]
+(./final.bbl [29]
+./final.bbl:176: Misplaced alignment tab character &.
+<argument> Alzheimer's &
+                         Dementia: Translational Research & Clinical Interve...
+l.176 ...tional Research & Clinical Interventions}
+                                                  ,
+? 
+./final.bbl:176: Misplaced alignment tab character &.
+<argument> ...& Dementia: Translational Research &
+                                                   Clinical Interventions
+l.176 ...tional Research & Clinical Interventions}
+                                                  ,
+? 
+[30]) [31] (./final.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+runsystem(rm final.pyg)...executed.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 492 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 12989 strings out of 492995
+ 212059 string characters out of 6132705
+ 381077 words of memory out of 5000000
+ 16068 multiletter control sequences out of 15000+600000
+ 42754 words of font info for 95 fonts, out of 8000000 for 9000
+ 1150 hyphenation exceptions out of 8191
+ 45i,11n,43p,2004b,568s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm
+-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ss10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+s12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8
+.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.p
+fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.p
+fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
+b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on final.pdf (31 pages, 735038 bytes).
+PDF statistics:
+ 186 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

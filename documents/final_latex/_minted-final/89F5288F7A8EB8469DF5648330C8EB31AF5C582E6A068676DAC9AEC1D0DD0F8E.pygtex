@@ -1,0 +1,18 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n}{Subject} \PYG{n}{ID}      \PYG{l+m+mi}{0}
+\PYG{n}{MRI} \PYG{n}{ID}          \PYG{l+m+mi}{0}
+\PYG{n}{Group}           \PYG{l+m+mi}{0}
+\PYG{n}{Visit}           \PYG{l+m+mi}{0}
+\PYG{n}{MR} \PYG{n}{Delay}      \PYG{l+m+mi}{150}
+\PYG{n}{M}\PYG{o}{/}\PYG{n}{F}             \PYG{l+m+mi}{0}
+\PYG{n}{Hand}            \PYG{l+m+mi}{0}
+\PYG{n}{Age}             \PYG{l+m+mi}{0}
+\PYG{n}{EDUC}            \PYG{l+m+mi}{0}
+\PYG{n}{SES}             \PYG{l+m+mi}{0}
+\PYG{n}{MMSE}            \PYG{l+m+mi}{0}
+\PYG{n}{CDR}           \PYG{l+m+mi}{206}
+\PYG{n}{eTIV}            \PYG{l+m+mi}{0}
+\PYG{n}{nWBV}            \PYG{l+m+mi}{0}
+\PYG{n}{ASF}             \PYG{l+m+mi}{0}
+\PYG{n}{dtype}\PYG{p}{:} \PYG{n}{int64}
+\end{Verbatim}

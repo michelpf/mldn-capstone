@@ -1,0 +1,510 @@
+\ifglsentryexists{PIB}{}%
+{%
+\gls@defglossaryentry{PIB}%
+{%
+name={pib},%
+sort={pib},%
+type={main},%
+first={pib},%
+firstplural={pibs},%
+text={pib},%
+plural={pibs},%
+description={Produto Interno Bruto},%
+descriptionplural={Produto Interno Bruto},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DSM-IV}{}%
+{%
+\gls@defglossaryentry{DSM-IV}%
+{%
+name={DSM-IV},%
+sort={DSM-IV},%
+type={main},%
+first={DSM-IV},%
+firstplural={DSM-IVs},%
+text={DSM-IV},%
+plural={DSM-IVs},%
+description={\emph {Diagnostic and Statistical Manual of Mental Disorders Fourth Edition}},%
+descriptionplural={\emph {Diagnostic and Statistical Manual of Mental Disorders Fourth Edition}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DV}{}%
+{%
+\gls@defglossaryentry{DV}%
+{%
+name={DV},%
+sort={DV},%
+type={main},%
+first={DV},%
+firstplural={DVs},%
+text={DV},%
+plural={DVs},%
+description={Demência Vascular},%
+descriptionplural={Demência Vascular},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CJD}{}%
+{%
+\gls@defglossaryentry{CJD}%
+{%
+name={CJD},%
+sort={CJD},%
+type={main},%
+first={CJD},%
+firstplural={CJDs},%
+text={CJD},%
+plural={CJDs},%
+description={\emph {Creutzfeldt-Jakob Disease}},%
+descriptionplural={\emph {Creutzfeldt-Jakob Disease}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NNCDS-ARDA}{}%
+{%
+\gls@defglossaryentry{NNCDS-ARDA}%
+{%
+name={NINCDS-ARDA},%
+sort={NINCDS-ARDA},%
+type={main},%
+first={NINCDS-ARDA},%
+firstplural={NINCDS-ARDAs},%
+text={NINCDS-ARDA},%
+plural={NINCDS-ARDAs},%
+description={\emph {National Institute of Neurologic, Communicative Disorders and Stroke/Alzheimers Disease and Related Disorders Association}},%
+descriptionplural={\emph {National Institute of Neurologic, Communicative Disorders and Stroke/Alzheimers Disease and Related Disorders Association}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EEG}{}%
+{%
+\gls@defglossaryentry{EEG}%
+{%
+name={EEG},%
+sort={EEG},%
+type={main},%
+first={EEG},%
+firstplural={EEGs},%
+text={EEG},%
+plural={EEGs},%
+description={Eletroencefalograma},%
+descriptionplural={Eletroencefalograma},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MMSE}{}%
+{%
+\gls@defglossaryentry{MMSE}%
+{%
+name={MMSE},%
+sort={MMSE},%
+type={main},%
+first={MMSE},%
+firstplural={MMSEs},%
+text={MMSE},%
+plural={MMSEs},%
+description={\emph {Mini-Mental State Examination}},%
+descriptionplural={\emph {Mini-Mental State Examination}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{3MS}{}%
+{%
+\gls@defglossaryentry{3MS}%
+{%
+name={3MS},%
+sort={3MS},%
+type={main},%
+first={3MS},%
+firstplural={3MSs},%
+text={3MS},%
+plural={3MSs},%
+description={\emph {Modified Mini-Mental State}},%
+descriptionplural={\emph {Modified Mini-Mental State}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BOMC}{}%
+{%
+\gls@defglossaryentry{BOMC}%
+{%
+name={BOMC},%
+sort={BOMC},%
+type={main},%
+first={BOMC},%
+firstplural={BOMCs},%
+text={BOMC},%
+plural={BOMCs},%
+description={\emph {Blessed Orientation Memory Concentration Test}},%
+descriptionplural={\emph {Blessed Orientation Memory Concentration Test}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CDR}{}%
+{%
+\gls@defglossaryentry{CDR}%
+{%
+name={CDR},%
+sort={CDR},%
+type={main},%
+first={CDR},%
+firstplural={CDRs},%
+text={CDR},%
+plural={CDRs},%
+description={\emph {Clinical Dementia Rating}},%
+descriptionplural={\emph {Clinical Dementia Rating}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{STMS}{}%
+{%
+\gls@defglossaryentry{STMS}%
+{%
+name={STMS},%
+sort={STMS},%
+type={main},%
+first={STMS},%
+firstplural={STMSs},%
+text={STMS},%
+plural={STMSs},%
+description={\emph {Short Test of Mental Status}},%
+descriptionplural={\emph {Short Test of Mental Status}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{IgG}{}%
+{%
+\gls@defglossaryentry{IgG}%
+{%
+name={IgG},%
+sort={IgG},%
+type={main},%
+first={IgG},%
+firstplural={IgGs},%
+text={IgG},%
+plural={IgGs},%
+description={\emph {Imunoglobulina G}},%
+descriptionplural={\emph {Imunoglobulina G}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BO}{}%
+{%
+\gls@defglossaryentry{BO}%
+{%
+name={BO},%
+sort={BO},%
+type={main},%
+first={BO},%
+firstplural={BOs},%
+text={BO},%
+plural={BOs},%
+description={Bandas Oligoclonais},%
+descriptionplural={Bandas Oligoclonais},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PET}{}%
+{%
+\gls@defglossaryentry{PET}%
+{%
+name={PET},%
+sort={PET},%
+type={main},%
+first={PET},%
+firstplural={PETs},%
+text={PET},%
+plural={PETs},%
+description={\emph {Positron Emission Tomography}},%
+descriptionplural={\emph {Positron Emission Tomography}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SPECT}{}%
+{%
+\gls@defglossaryentry{SPECT}%
+{%
+name={SPECT},%
+sort={SPECT},%
+type={main},%
+first={SPECT},%
+firstplural={SPECTs},%
+text={SPECT},%
+plural={SPECTs},%
+description={\emph {Single Photon Emission Computed Tomography}},%
+descriptionplural={\emph {Single Photon Emission Computed Tomography}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VP}{}%
+{%
+\gls@defglossaryentry{VP}%
+{%
+name={VP},%
+sort={VP},%
+type={main},%
+first={VP},%
+firstplural={VPs},%
+text={VP},%
+plural={VPs},%
+description={Verdadeiro Positivo},%
+descriptionplural={Verdadeiro Positivo},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FN}{}%
+{%
+\gls@defglossaryentry{FN}%
+{%
+name={FN},%
+sort={FN},%
+type={main},%
+first={FN},%
+firstplural={FNs},%
+text={FN},%
+plural={FNs},%
+description={Falso Negativo},%
+descriptionplural={Falso Negativo},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

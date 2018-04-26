@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kn}{from} \PYG{n+nn}{sklearn.ensemble} \PYG{k+kn}{import} \PYG{n}{RandomForestClassifier}
+
+\PYG{n}{rf\PYGZus{}model\PYGZus{}opt} \PYG{o}{=} \PYG{n}{RandomForestClassifier}\PYG{p}{(}\PYG{n}{bootstrap}\PYG{o}{=}\PYG{n+nb+bp}{False}\PYG{p}{,} \PYG{n}{criterion}\PYG{o}{=}\PYG{l+s+s2}{\PYGZdq{}gini\PYGZdq{}}\PYG{p}{,} \PYG{n}{max\PYGZus{}depth}\PYG{o}{=}\PYG{l+m+mi}{12}\PYG{p}{,}
+				\PYG{n}{n\PYGZus{}estimators}\PYG{o}{=}\PYG{l+m+mi}{25}\PYG{p}{,} \PYG{n}{max\PYGZus{}features}\PYG{o}{=}\PYG{l+s+s2}{\PYGZdq{}auto\PYGZdq{}}\PYG{p}{,} \PYG{n}{min\PYGZus{}samples\PYGZus{}leaf}\PYG{o}{=}\PYG{l+m+mi}{2}\PYG{p}{,}
+				\PYG{n}{min\PYGZus{}samples\PYGZus{}split}\PYG{o}{=}\PYG{l+m+mi}{2}\PYG{p}{,} \PYG{n}{random\PYGZus{}state}\PYG{o}{=}\PYG{l+m+mi}{0}\PYG{p}{)}
+\PYG{n}{rf\PYGZus{}model\PYGZus{}opt}\PYG{o}{.}\PYG{n}{fit}\PYG{p}{(}\PYG{n}{X\PYGZus{}train}\PYG{p}{,} \PYG{n}{y\PYGZus{}train}\PYG{o}{.}\PYG{n}{ravel}\PYG{p}{())}
+\end{Verbatim}

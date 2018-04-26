@@ -120,7 +120,7 @@ Embora os critérios do DSM-IV sejam geralmente úteis, um problema com o critério
 \newglossaryentry{CJD}{name={CJD}, description={\emph{Creutzfeldt-Jakob Disease}}}
 
 %Resumo Histórico
-\subsubsection{Resumo Histórico}
+\subsubsection*{Resumo Histórico}
 \label{subSec-DAResumoHistorico}
 
 O entendimento atual da DA evoluiu em três fases \cite{Munhoz2002}:
@@ -282,7 +282,7 @@ Exames de imagem funcional podem ser especialmente úteis no diagnóstico diferenc
 
 Embora os testes de neuroimagem funcional mostram um grande potencial, no momento, a \emph{American Academy of Neurology} indicou que nem SPECT ou PET foram recomendadas para uso rotineiro no diagnóstico inicial ou diferencial das demências \cite{Knopman2001}.
 
-\section{Descrição do problema}
+\section*{Descrição do problema}
 
 Hoje em dia a análise de imagens médicas é uma atividade que consome um tempo muito grande e seu resultado efetivo nem sempre resultará no padrão completo que se deseja extrair, por exemplo, em uma imagem médica de um paciente com DA se deseja captar o padrão de atrofia de massa cinzenta do cérebro \cite{Kloppel2008}.
 
@@ -292,7 +292,7 @@ Portanto, combinar diferentes atributos fisiológicos, especialmente os que traze
 
 Deste modo, foi desenvolvido um modelo de classificação binária capaz de separar adequadamente sujeitos com DA e sujeitos de controle em diferentes momentos de coleta de exames para não apenas validar o modelo de classificação como também comprovar o efeito degenerativo da DA ao longo do tempo.
 
-\section{Métrica}
+\section*{Métrica}
 
 Este estudo tem como objetivo classificar adequadamente sujeitos com DA para futuros acompanhamentos clínicos apropriados. Um dos achados mais relevantes é a capacidade de predição com antecedência, pois desta forma é possível acompanhar melhor a doença e planejar ações com maior antecedência.
 
@@ -319,9 +319,9 @@ Sensibilidade = \frac{VP}{VP + FN}
 \end{center}
 \end{table}
 
-\section{Análise}
+\section*{Análise}
 
-\subsection{Exploração dos dados}
+\subsection*{Exploração dos dados}
 
 Os dados deste estudo foram fornecidos pela iniciativa Open Access Series of Imaging Studies (OASIS\footnote{Disponível em \url{http://www.oasis-brains.org/}}, a qual contém informações parametrizadas a cerca de exames de ressonância magnética e avaliações de testes de cognição do Mini Mental State Examination (MMSE) e o Clinical Demential Rating (CDR).
 
@@ -337,9 +337,30 @@ Este conjunto consiste em uma coleção longitudinal de 150 indivíduos com idades 
 
 As informações obtidas pelo conjunto de dados permite entender e parametrizar os resultados dos exames de RM nos seguintes atributos: volume intracaniano, volume cerebral normalizado, fator de escala Atlas.
 
-Do ponto de vista de metadados socio-econômicos, temos no conjunto de dados os atributos: tempo de educação, estado sócio-econômico, avaliação MMSE Mental e avaliação CDR.
+Do ponto de vista de metadados social e estado mental, temos no conjunto de dados os atributos: tempo de educação, estado sócio-econômico, avaliação MMSE Mental e avaliação CDR.
 
 Ao total, para cada sujeito, foi utilizado 7 atributos para classificar o conjunto de dados, sendo 3 fisiológicos e 4 objetivos, sendo 2 de condições educacionais e sócio-econômicas e os demais resultados dos testes de cognição.
+
+De acordo com o tamanho do conjunto de dados e dos benchmarks que desejamos comparar, optamos por utilizar os algoritmos de classificação Random Forest e Support Vector Machines (SVM).
+
+O SVM tem aplicação mais utilizada no ramo de identificação de padrões, sobretudo em imagens. Por exemplo, na área de imagens médicas, possui diversos casos de uso onde é possível identificar padrões que podem indicar evolução para diferentes tipos de enfermidades, seja em imagens de duas dimensões como por exemplo um simples raio-x \cite{Tizhoosh2015} ou até mesmo imagens volumétricas, de três dimensões de uma ressonância magnética \cite{Michel2012}.
+
+A base do SVM é a sua característica principal em maximizar a separação entre duas classes, o que chamamos de uma classificação binária. Esta característica permite escolher, dentre os elementos dos conjuntos de análise no processo de separação, somente os elementos que maximizam a separação entre as classes, que são chamados de vetores de suporte. Com isto, o SVM é robusto e eficiente ao lidar com problemas onde existe uma grande dimensionalidade, seja em atributos ou em exemplos de treinamento, da ordem de milhões. Outro ponto a ser destacado é o uso das funções kernel para separar classes que não sejam linearmente separáveis num mesmo plano. A técnica consiste em criar um novo hiperplano para que seja possível separar as duas classes com uma função linear.
+
+Apesar do SVM ser robusto ao criar um modelo com grande dimensionalidade pode levar mais tempo que outros classificadores, como por exemplo as Árvores de Decisão na etapa de treinamento. A escolha da função kernel apropriada pode levar tempo pois requer maior estudo dos dados envolvidos. Adicionalmente é necessário realizar diversas tarefas de regularização do modelo, portanto sua configuração não é trivial como Naive Bayes ou ainda como as Árvores de Decisão.
+
+O algoritmo de classificação Random Forest é uma agregação de diversas Decision Trees com o objetivo de torná-las mais eficientes e as otimizando.
+
+As Decision Trees, representam um dos mais simples algoritmos, pois é composto de uma série de perguntas e respostas dispostas em forma de árvore binária, ou seja, com apenas duas ramificações.
+
+Sua aplicação está relacionada nas áreas de Discovery Knowledge especialmente nos casos de uso de suporte técnico \cite{Sivagama2011}, sistemas de recomendação \cite{Tizhoosh2015}, sistemas especialistas de seguros \cite{Frempong2017}, diagnósticos médicos \cite{Lukas2008}, dentre outros.
+
+A grande vantagem das Decision Trees é sua simplicidade de construção, pois não requer muitos ajustes ou regularizações. Sua forma gráfica de representar o modelo também contribui para se tornar um dos classificadores de mais fácil entendimento.
+
+Independente da separação ser linear ou não linear, o esforço envolvido para construção do modelo é similar, portanto não há maior esforço computacional quando a separação for do tipo não linear.
+
+Uma das limitações mais importantes das Decision Trees é relacionado ao overfitting devido a natureza do classificador, onde a fronteira de decisão tende a ser paralelo aos eixos existentes do plano de amostras. Sem um ajuste de pruning, por exemplo, podem haver distorções na fronteira de decisão que pode prejudicar distribuições suaves. Este efeito também pode ser minimizado com o uso dos ensemble models, como em Random Forest.
+
 
 \subsection*{Visualização exploratória}
 
@@ -425,7 +446,7 @@ Este parâmetro por si só não explica a demência, principalmente por ter um alto 
 \label{fig-GrafCDR}
 \end{figure}
 
-A medida do volume intracraniano total (eTIV), refere-se ao volume estimado da cavidade craniana, conforme descrito pela matéria supratentorial da dura-máter ou pelo contorno cerebral, quando a dura não é claramente detectável. O eTIV é frequentemente usado em estudos envolvidos com a análise da estrutura cerebral sob diferentes modalidades de imagem, como RM, DTI, SPECT, ultrassom e tomografia computadorizada (TC). A consistência do eTIV durante o envelhecimento faz dele uma ferramenta confiável para a correção da variação do tamanho da cabeça em indivíduos que se baseiam em características morfológicas do cérebro. Juntamente com a idade e o sexo, são relatados como covariáveis ??para ajustar as análises de regressão na investigação de distúrbios cerebrais neurodegenerativos progressivos, como a DA, o envelhecimento e o comprometimento cognitivo. O eTIV também tem sido utilizado como um recurso morfométrico baseado em voxel independente para avaliar mudanças relacionadas à idade na estrutura de braquias pré-mórbidas, determinar padrões de atrofia característicos em indivíduos com TCL e DA, delinear anormalidades estruturais no matéria brancana esquizofrenia, epilepsia e eficácia cognitiva.
+A medida do volume intracraniano total (eTIV), refere-se ao volume estimado da cavidade craniana, conforme descrito pela matéria supratentorial da dura-máter ou pelo contorno cerebral, quando a dura não é claramente detectável. O eTIV é frequentemente usado em estudos envolvidos com a análise da estrutura cerebral sob diferentes modalidades de imagem, como RM, DTI, SPECT, ultrassom e tomografia computadorizada (TC). A consistência do eTIV durante o envelhecimento faz dele uma ferramenta confiável para a correção da variação do tamanho da cabeça em indivíduos que se baseiam em características morfológicas do cérebro. Juntamente com a idade e o sexo, são relatados como covariáveis para ajustar as análises de regressão na investigação de distúrbios cerebrais neurodegenerativos progressivos, como a DA, o envelhecimento e o comprometimento cognitivo. O eTIV também tem sido utilizado como um recurso morfométrico baseado em voxel independente para avaliar mudanças relacionadas à idade na estrutura de braquias pré-mórbidas, determinar padrões de atrofia característicos em indivíduos com TCL e DA, delinear anormalidades estruturais no matéria brancana esquizofrenia, epilepsia e eficácia cognitiva.
 
 Os gráficos apresentados são bem específicos e não concentrados, o que não permite uma visualização clara que possa separar os grupos adequadamente. 
 
@@ -656,7 +677,7 @@ Apesar de esperarmos resultados melhores, inicialmente o SVM foi ligeiramente pi
 
 A estratégia adotada para realizar os ajustes finos de cada algoritmo de classificador se baseou em utilizar o \texttt{GridSearchCV}. Este seletor de modelo também traz a validação cruzada que torna o classificador mais robusto ao poder lidar com uma variedade de maior de novos exemplos, pois se baseia na média dos parâmetros ajustados nas validações cruzadas utilizadas.
 
-A configuração do \texttt{GridSearchCV} para o algoritmo de Random Forest foi o seguinte.
+Foram utilizados configurações de \texttt{GridSearchCV} visando obter maior pontuação \texttt{scoring} de sensibilidade \texttt{recall} e também de ROC AUC  \texttt{roc\textunderscore auc}. Os resultados com o objetivo de maximizar o ROC AUC foram os que obtiveram melhores resultados.
 
 \begin{minted}{python}
 from scipy.stats import randint as sp_randint
@@ -674,7 +695,7 @@ param_grid = {"n_estimators" : [10, 15, 20, 25],
 \begin{minted}{python}
 clf_rf = RandomForestClassifier(n_estimators=20)
 
-grid_search = GridSearchCV(clf_rf, param_grid=param_grid, cv=10)
+grid_search = GridSearchCV(clf_rf, param_grid=param_grid, cv=10, scoring="roc_auc")
 grid_search.fit(X, y)
 report(grid_search.cv_results_)
 \end{minted}
@@ -682,15 +703,18 @@ report(grid_search.cv_results_)
 \begin{minted}{python}
 Model with rank: 1
 Mean validation score: 0.921 (std: 0.025)
-Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 12, 'max_features': 'auto', 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 25}
+Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 12, 'max_features': 'auto', 
+'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 25}
 
 Model with rank: 2
 Mean validation score: 0.917 (std: 0.031)
-Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 12, 'max_features': 'auto', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 25}
+Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 12, 'max_features': 'auto', 
+'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 25}
 
 Model with rank: 3
 Mean validation score: 0.915 (std: 0.020)
-Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 14, 'max_features': 'auto', 'min_samples_leaf': 1, 'min_samples_split': 6, 'n_estimators': 25}
+Parameters: {'bootstrap': False, 'criterion': 'gini', 'max_depth': 14, 'max_features': 'auto', 
+'min_samples_leaf': 1, 'min_samples_split': 6, 'n_estimators': 25}
 \end{minted}
 
 Para o SVM, o grid de parâmetros utilizados para as validações utilizou outros tipos de kernel, além do linear.
@@ -711,7 +735,7 @@ from sklearn.model_selection import GridSearchCV
 
 clf_svm = svm.SVC()
 
-grid_search = GridSearchCV(clf_svm, param_grid=param_grid_svm, cv=10)
+grid_search = GridSearchCV(clf_svm, param_grid=param_grid_svm, cv=10, scoring="roc_auc")
 grid_search.fit(X, y)
 report(grid_search.cv_results_)
 \end{minted}
@@ -719,51 +743,63 @@ report(grid_search.cv_results_)
 \begin{minted}{python}
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': 'ovo', 'degree': 2, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': True}
+Parameters: {'C': 1, 'decision_function_shape': 'ovo', 'degree': 2, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': True}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': 'ovo', 'degree': 2, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': False}
+Parameters: {'C': 1, 'decision_function_shape': 'ovo', 'degree': 2, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': False}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': 'ovo', 'degree': 4, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': True}
+Parameters: {'C': 1, 'decision_function_shape': 'ovo', 'degree': 4, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': True}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': 'ovo', 'degree': 4, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': False}
+Parameters: {'C': 1, 'decision_function_shape': 'ovo', 'degree': 4, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': False}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': 'ovr', 'degree': 2, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': True}
+Parameters: {'C': 1, 'decision_function_shape': 'ovr', 'degree': 2, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': True}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': 'ovr', 'degree': 2, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': False}
+Parameters: {'C': 1, 'decision_function_shape': 'ovr', 'degree': 2, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': False}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': 'ovr', 'degree': 4, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': True}
+Parameters: {'C': 1, 'decision_function_shape': 'ovr', 'degree': 4, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': True}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': 'ovr', 'degree': 4, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': False}
+Parameters: {'C': 1, 'decision_function_shape': 'ovr', 'degree': 4, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': False}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': None, 'degree': 2, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': True}
+Parameters: {'C': 1, 'decision_function_shape': None, 'degree': 2, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': True}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': None, 'degree': 2, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': False}
+Parameters: {'C': 1, 'decision_function_shape': None, 'degree': 2, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': False}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': None, 'degree': 4, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': True}
+Parameters: {'C': 1, 'decision_function_shape': None, 'degree': 4, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': True}
 
 Model with rank: 1
 Mean validation score: 0.962 (std: 0.018)
-Parameters: {'C': 1, 'decision_function_shape': None, 'degree': 4, 'gamma': 0.1, 'kernel': 'rbf', 'shrinking': False}
+Parameters: {'C': 1, 'decision_function_shape': None, 'degree': 4, 'gamma': 0.1, 
+'kernel': 'rbf', 'shrinking': False}
 \end{minted}
 
 \section*{Resultados}
@@ -777,8 +813,9 @@ Para o algoritmo SVM as regularizações propostas não melhoraram a performance do
 \begin{minted}{python}
 from sklearn.ensemble import RandomForestClassifier
 
-rf_model_opt = RandomForestClassifier(bootstrap=False, criterion="gini", max_depth=12, n_estimators=25, 
-                                  max_features="auto", min_samples_leaf=2, min_samples_split=2, random_state=0)
+rf_model_opt = RandomForestClassifier(bootstrap=False, criterion="gini", max_depth=12, 
+				n_estimators=25, max_features="auto", min_samples_leaf=2, 
+				min_samples_split=2, random_state=0)
 rf_model_opt.fit(X_train, y_train.ravel())
 \end{minted}
 
@@ -863,7 +900,7 @@ Todas as etapas do projeto foram conduzidas conforme o planejamento inicial e nã
 
 \subsection*{Melhorias}
 
-O uso de outros tipos de classificadores, de forma exaustiva, poderia trazer luz a outros métodos de classificação diferente dos amplamente utilizados em estudos similares, como por exemplo Naive Bayes Multinomial e até mesmo outras abordagens utilizando Deep Learning. Aliado a facilidade de automatizar tais testes, recorrendo inclusive a computação de nuvem.
+O uso de outros tipos de classificadores, de forma exaustiva, poderia trazer luz a outros métodos de classificação diferente dos amplamente utilizados em estudos similares, como por exemplo Naive Bayes Multinomial, métodos ensemble como AdaBoost e XGBoost e até mesmo outras abordagens utilizando Deep Learning. Aliado a facilidade de automatizar tais testes, recorrendo inclusive a computação de nuvem.
 
 O conjunto de dados utilizado ainda é pequeno, o que pode trazer algum tipo de viéis aos grupos de estudo. O ideial seria contar com bases maiores, representando, pelo menos 1000 elementos de cada grupo, respeitando a distribuição nos diferentes atributos utilizados como parâmetros de classificação.
 

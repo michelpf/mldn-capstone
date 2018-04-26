@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  25 APR 2018 08:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  25 APR 2018 22:50
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -856,157 +856,157 @@ File: ./imagem/AD_1.jpg Graphic file (type jpg)
 <use ./imagem/AD_1.jpg>
 Package pdftex.def Info: ./imagem/AD_1.jpg used on input line 271.
 (pdftex.def)             Requested size: 298.86581pt x 301.12425pt.
- [7] [8 <./imagem/AD_1.jpg>] [9]
-<./imagem/graf_mf.png, id=49, 1093.08376pt x 648.4225pt>
+ [7] [8 <./imagem/AD_1.jpg>] [9] [10]
+<./imagem/graf_mf.png, id=52, 1093.08376pt x 648.4225pt>
 File: ./imagem/graf_mf.png Graphic file (type png)
 
 <use ./imagem/graf_mf.png>
-Package pdftex.def Info: ./imagem/graf_mf.png used on input line 356.
+Package pdftex.def Info: ./imagem/graf_mf.png used on input line 377.
 (pdftex.def)             Requested size: 1093.08109pt x 648.42091pt.
 
-./final.tex:359: Extra }, or forgotten \endgroup.
+./final.tex:380: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.359 \end{figure}
+l.380 \end{figure}
                   
 ? 
-./final.tex:361: Too many }'s.
-l.361 A idade (figura \label{fig-GrafIdade}}
+./final.tex:382: Too many }'s.
+l.382 A idade (figura \label{fig-GrafIdade}}
                                              não é um fator determinante par...
 
 ? 
-[10 <./imagem/graf_mf.png>]
-<./imagem/graf_age.png, id=54, 1095.09125pt x 648.4225pt>
+<./imagem/graf_age.png, id=53, 1095.09125pt x 648.4225pt>
 File: ./imagem/graf_age.png Graphic file (type png)
 
 <use ./imagem/graf_age.png>
-Package pdftex.def Info: ./imagem/graf_age.png used on input line 365.
+Package pdftex.def Info: ./imagem/graf_age.png used on input line 386.
 (pdftex.def)             Requested size: 1095.08858pt x 648.42091pt.
 
-./final.tex:368: Extra }, or forgotten \endgroup.
+./final.tex:389: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.368 \end{figure}
+l.389 \end{figure}
                   
 ? 
-<./imagem/graf_educ.png, id=55, 1093.08376pt x 648.4225pt>
+[11 <./imagem/graf_mf.png>]
+<./imagem/graf_educ.png, id=58, 1093.08376pt x 648.4225pt>
 File: ./imagem/graf_educ.png Graphic file (type png)
 
 <use ./imagem/graf_educ.png>
-Package pdftex.def Info: ./imagem/graf_educ.png used on input line 376.
+Package pdftex.def Info: ./imagem/graf_educ.png used on input line 397.
 (pdftex.def)             Requested size: 1093.08109pt x 648.42091pt.
 
-./final.tex:379: Extra }, or forgotten \endgroup.
+./final.tex:400: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.379 \end{figure}
+l.400 \end{figure}
                   
 ? 
-[11 <./imagem/graf_age.png>]
-<./imagem/graf_ses.png, id=60, 1093.08376pt x 648.4225pt>
+[12 <./imagem/graf_age.png>]
+<./imagem/graf_ses.png, id=63, 1093.08376pt x 648.4225pt>
 File: ./imagem/graf_ses.png Graphic file (type png)
 
 <use ./imagem/graf_ses.png>
-Package pdftex.def Info: ./imagem/graf_ses.png used on input line 387.
+Package pdftex.def Info: ./imagem/graf_ses.png used on input line 408.
 (pdftex.def)             Requested size: 1093.08109pt x 648.42091pt.
 
-./final.tex:390: Extra }, or forgotten \endgroup.
+./final.tex:411: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.390 \end{figure}
+l.411 \end{figure}
                   
 ? 
-[12 <./imagem/graf_educ.png>]
-<./imagem/graf_mmse.png, id=65, 1105.12875pt x 648.4225pt>
+[13 <./imagem/graf_educ.png>]
+<./imagem/graf_mmse.png, id=69, 1105.12875pt x 648.4225pt>
 File: ./imagem/graf_mmse.png Graphic file (type png)
 
 <use ./imagem/graf_mmse.png>
-Package pdftex.def Info: ./imagem/graf_mmse.png used on input line 400.
+Package pdftex.def Info: ./imagem/graf_mmse.png used on input line 421.
 (pdftex.def)             Requested size: 1105.12607pt x 648.42091pt.
 
-./final.tex:403: Extra }, or forgotten \endgroup.
+./final.tex:424: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.403 \end{figure}
+l.424 \end{figure}
                   
 ? 
-[13 <./imagem/graf_ses.png>]
-<./imagem/graf_cdr.png, id=71, 1101.11375pt x 648.4225pt>
+[14 <./imagem/graf_ses.png>]
+<./imagem/graf_cdr.png, id=74, 1101.11375pt x 648.4225pt>
 File: ./imagem/graf_cdr.png Graphic file (type png)
 
 <use ./imagem/graf_cdr.png>
-Package pdftex.def Info: ./imagem/graf_cdr.png used on input line 423.
+Package pdftex.def Info: ./imagem/graf_cdr.png used on input line 444.
 (pdftex.def)             Requested size: 1101.11108pt x 648.42091pt.
 
-./final.tex:426: Extra }, or forgotten \endgroup.
+./final.tex:447: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.426 \end{figure}
+l.447 \end{figure}
                   
 ? 
-[14 <./imagem/graf_mmse.png>]
-<./imagem/graf_etiv.png, id=76, 1097.09875pt x 648.4225pt>
+[15 <./imagem/graf_mmse.png>]
+<./imagem/graf_etiv.png, id=79, 1097.09875pt x 648.4225pt>
 File: ./imagem/graf_etiv.png Graphic file (type png)
 
 <use ./imagem/graf_etiv.png>
-Package pdftex.def Info: ./imagem/graf_etiv.png used on input line 434.
+Package pdftex.def Info: ./imagem/graf_etiv.png used on input line 455.
 (pdftex.def)             Requested size: 1097.09608pt x 648.42091pt.
 
-./final.tex:437: Extra }, or forgotten \endgroup.
+./final.tex:458: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.437 \end{figure}
+l.458 \end{figure}
                   
 ? 
-[15 <./imagem/graf_cdr.png>]
-<./imagem/graf_nwbv.png, id=81, 1085.05376pt x 648.4225pt>
+[16 <./imagem/graf_cdr.png>]
+<./imagem/graf_nwbv.png, id=84, 1085.05376pt x 648.4225pt>
 File: ./imagem/graf_nwbv.png Graphic file (type png)
 
 <use ./imagem/graf_nwbv.png>
-Package pdftex.def Info: ./imagem/graf_nwbv.png used on input line 441.
+Package pdftex.def Info: ./imagem/graf_nwbv.png used on input line 462.
 (pdftex.def)             Requested size: 1085.0511pt x 648.42091pt.
 
-./final.tex:444: Extra }, or forgotten \endgroup.
+./final.tex:465: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.444 \end{figure}
+l.465 \end{figure}
                   
 ? 
-<./imagem/graf_asf.png, id=82, 1097.09875pt x 648.4225pt>
+<./imagem/graf_asf.png, id=85, 1097.09875pt x 648.4225pt>
 File: ./imagem/graf_asf.png Graphic file (type png)
 
 <use ./imagem/graf_asf.png>
-Package pdftex.def Info: ./imagem/graf_asf.png used on input line 448.
+Package pdftex.def Info: ./imagem/graf_asf.png used on input line 469.
 (pdftex.def)             Requested size: 1097.09608pt x 648.42091pt.
 
-./final.tex:451: Extra }, or forgotten \endgroup.
+./final.tex:472: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.451 \end{figure}
+l.472 \end{figure}
                   
 ? 
-[16 <./imagem/graf_etiv.png> <./imagem/graf_nwbv.png>]
+[17 <./imagem/graf_etiv.png> <./imagem/graf_nwbv.png>]
 File: ./imagem/graf_asf.png Graphic file (type png)
 
 <use ./imagem/graf_asf.png>
-Package pdftex.def Info: ./imagem/graf_asf.png used on input line 457.
+Package pdftex.def Info: ./imagem/graf_asf.png used on input line 478.
 (pdftex.def)             Requested size: 1097.09608pt x 648.42091pt.
 
-./final.tex:460: Extra }, or forgotten \endgroup.
+./final.tex:481: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.460 \end{figure}
+l.481 \end{figure}
                   
 ? 
-[17 <./imagem/graf_asf.png>] [18]
+[18 <./imagem/graf_asf.png>] [19]
 
-./final.tex:492: LaTeX Error: Environment code undefined.
+./final.tex:513: LaTeX Error: Environment code undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.492 \begin{code}
+l.513 \begin{code}
                   
 ? 
 \openout3 = `final.pyg'.
@@ -1019,21 +1019,21 @@ l.492 \begin{code}
 LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
 (Font)              using `T1/aett/m/n' instead on input line 2.
 
-) <./imagem/tabela_nulos.png, id=95, 965.6075pt x 567.11874pt>
+) <./imagem/tabela_nulos.png, id=99, 965.6075pt x 567.11874pt>
 File: ./imagem/tabela_nulos.png Graphic file (type png)
 
 <use ./imagem/tabela_nulos.png>
-Package pdftex.def Info: ./imagem/tabela_nulos.png used on input line 502.
+Package pdftex.def Info: ./imagem/tabela_nulos.png used on input line 523.
 (pdftex.def)             Requested size: 965.60515pt x 567.11736pt.
 
-Overfull \hbox (13.04755pt too wide) in paragraph at lines 502--503
+Overfull \hbox (13.04755pt too wide) in paragraph at lines 523--524
  [][] 
  []
 
-./final.tex:505: Extra }, or forgotten \endgroup.
+./final.tex:526: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.505 \end{figure}
+l.526 \end{figure}
                   
 ? 
 \openout3 = `final.pyg'.
@@ -1045,7 +1045,7 @@ l.505 \end{figure}
 
 
 (./_minted-final/763A3EF169F30CE6F97C8F473C724B76AF5C582E6A068676DAC9AEC1D0DD0F
-8E.pygtex [19 <./imagem/tabela_nulos.png>])
+8E.pygtex [20 <./imagem/tabela_nulos.png>])
 \openout3 = `final.pyg'.
 
 
@@ -1060,7 +1060,7 @@ l.505 \end{figure}
 
 
 (./_minted-final/15B36D0D16CCDBD2CC104BEA66AF13EEAF5C582E6A068676DAC9AEC1D0DD0F
-8E.pygtex) [20]
+8E.pygtex) [21]
 \openout3 = `final.pyg'.
 
 
@@ -1094,7 +1094,7 @@ LaTeX Font Warning: Font shape `TS1/aett/m/n' undefined
 
 
 (./_minted-final/E5F56B9EB37F9460499FA765C9CEFFF4AF5C582E6A068676DAC9AEC1D0DD0F
-8E.pygtex) [21]
+8E.pygtex) [22]
 \openout3 = `final.pyg'.
 
 
@@ -1103,13 +1103,13 @@ LaTeX Font Warning: Font shape `TS1/aett/m/n' undefined
 \openout3 = `final.pyg'.
 
 
-(./_minted-final/3F862097FF2CF08CE42F36AF6FA3C14CAF5C582E6A068676DAC9AEC1D0DD0F
+(./_minted-final/7CC91B22B8A0B18FC2DFF536178463AEAF5C582E6A068676DAC9AEC1D0DD0F
 8E.pygtex)
 \openout3 = `final.pyg'.
 
 
-(./_minted-final/23EBBA4CA7FFD9AAB372AADE43A5FA92AF5C582E6A068676DAC9AEC1D0DD0F
-8E.pygtex) [22]
+(./_minted-final/D16A57108901868C459D5C53FD06065EAF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex [23])
 \openout3 = `final.pyg'.
 
 
@@ -1118,52 +1118,77 @@ LaTeX Font Warning: Font shape `TS1/aett/m/n' undefined
 \openout3 = `final.pyg'.
 
 
-(./_minted-final/CD94E664423A0ABED9FCD15273E2E3E6AF5C582E6A068676DAC9AEC1D0DD0F
+(./_minted-final/546A06DB7555C83570B95445E11AE789AF5C582E6A068676DAC9AEC1D0DD0F
 8E.pygtex)
 \openout3 = `final.pyg'.
 
 
-(./_minted-final/CEE019662A9A0DDC14A0A62FDDE81483AF5C582E6A068676DAC9AEC1D0DD0F
-8E.pygtex [23])
+(./_minted-final/9D7EC7D1940BE4BD028735A4AE35B22EAF5C582E6A068676DAC9AEC1D0DD0F
+8E.pygtex [24])
 \openout3 = `final.pyg'.
 
+runsystem(pygmentize -l python -f latex -P commandprefix=PYG -F tokenmerge -o _
+minted-final/F87C0C0DE08D3A67699C72F59A851286AF5C582E6A068676DAC9AEC1D0DD0F8E.p
+ygtex final.pyg)...executed.
 
-(./_minted-final/E36A92FE175EB3D86A38180CCDB8E7A7AF5C582E6A068676DAC9AEC1D0DD0F
+
+(./_minted-final/F87C0C0DE08D3A67699C72F59A851286AF5C582E6A068676DAC9AEC1D0DD0F
 8E.pygtex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[25]
 \openout3 = `final.pyg'.
 
 
 (./_minted-final/B7B4A3F188824B074E7A72311C586F91AF5C582E6A068676DAC9AEC1D0DD0F
-8E.pygtex) [24]
-<./imagem/graf_import_feature.png, id=117, 878.28125pt x 601.24625pt>
+8E.pygtex)
+<./imagem/graf_import_feature.png, id=121, 878.28125pt x 601.24625pt>
 File: ./imagem/graf_import_feature.png Graphic file (type png)
 
 <use ./imagem/graf_import_feature.png>
-Package pdftex.def Info: ./imagem/graf_import_feature.png used on input line 84
-7.
+Package pdftex.def Info: ./imagem/graf_import_feature.png used on input line 88
+4.
 (pdftex.def)             Requested size: 878.27911pt x 601.24477pt.
 
-./final.tex:850: Extra }, or forgotten \endgroup.
+./final.tex:887: Extra }, or forgotten \endgroup.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.850 \end{figure}
+l.887 \end{figure}
                   
 ? 
-[25] [26 <./imagem/graf_import_feature.png>] (./final.gls [27]) [28]
-(./final.bbl [29]
-./final.bbl:176: Misplaced alignment tab character &.
+[26] [27 <./imagem/graf_import_feature.png>] (./final.gls [28]) [29]
+(./final.bbl
+./final.bbl:75: Misplaced alignment tab character &.
 <argument> Alzheimer's &
                          Dementia: Translational Research & Clinical Interve...
-l.176 ...tional Research & Clinical Interventions}
+l.75 ...ational Research & Clinical Interventions}
                                                   ,
 ? 
-./final.bbl:176: Misplaced alignment tab character &.
+./final.bbl:75: Misplaced alignment tab character &.
 <argument> ...& Dementia: Translational Research &
                                                    Clinical Interventions
-l.176 ...tional Research & Clinical Interventions}
+l.75 ...ational Research & Clinical Interventions}
                                                   ,
 ? 
-[30]) [31] (./final.aux)
+[30]
+./final.bbl:188: Misplaced alignment tab character &.
+<argument> Alzheimer's &
+                         Dementia: Translational Research & Clinical Interve...
+l.188 ...tional Research & Clinical Interventions}
+                                                  ,
+? 
+./final.bbl:188: Misplaced alignment tab character &.
+<argument> ...& Dementia: Translational Research &
+                                                   Clinical Interventions
+l.188 ...tional Research & Clinical Interventions}
+                                                  ,
+? 
+[31])
+runsystem(rm _minted-final/E36A92FE175EB3D86A38180CCDB8E7A7AF5C582E6A068676DAC9
+AEC1D0DD0F8E.pygtex)...executed.
+
+ [32] (./final.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1175,16 +1200,16 @@ runsystem(rm final.pyg)...executed.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 492 (\begingroup)
+### semi simple group (level 1) entered at line 513 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12989 strings out of 492995
- 212059 string characters out of 6132705
- 381077 words of memory out of 5000000
- 16068 multiletter control sequences out of 15000+600000
+ 13015 strings out of 492995
+ 212583 string characters out of 6132705
+ 381461 words of memory out of 5000000
+ 16093 multiletter control sequences out of 15000+600000
  42754 words of font info for 95 fonts, out of 8000000 for 9000
  1150 hyphenation exceptions out of 8191
- 45i,11n,43p,2004b,568s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,11n,43p,2004b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm
 -super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1199,10 +1224,10 @@ pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.p
 fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
 b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on final.pdf (31 pages, 735038 bytes).
+Output written on final.pdf (32 pages, 740164 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
+ 189 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

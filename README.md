@@ -73,4 +73,4 @@ Também há o mesmo conjunto de dados disponível no [Kaggle](http://kaggle.com)
 
 Os arquivos fontes dos documentos finais e da proposta estão no diretório `documents/` . Tais arquivos estão no formato Latex, aos quais podem ser utilizados em outros projetos de outros alunos deste programa de nanodegree.
 
-Documentos finais para proposta de avaliação `proposta.pdf` e o relatório final `final.pdf`.
+Documentos finais para proposta de avaliação `capstone_proposta.pdf` e o relatório final `capstone_final.pdf`.

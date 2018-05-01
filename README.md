@@ -2,6 +2,9 @@
 # Projeto Final (Capstone)
 ## Classificação de demência baseado em atributos biológicos, sócio-econômicos, educacionais e testes de cognição
 
+
+![Image of Dementia](https://github.com/michelpf/mldn-capstone-dementia-prediction/blob/master/documents/proposta_latex/imagem/dementia_iStock_000029744938_Large.jpg)
+
 ### Introdução
 
 Este estudo visa avaliar a utilização dos algoritmos de classificação Random Forest e Support Vector Machines para separar as classes de grupos de controle e demência.
